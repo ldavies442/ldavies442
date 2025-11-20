@@ -1,4 +1,4 @@
-Hi there 👋
+# *Hi there* 👋
 
 - **About me:** My name is Lauren, I am a 23 year old student currently enrolled in my first year of university at the University of South Wales, studying computer science.
   
@@ -10,7 +10,7 @@ Hi there 👋
 
 - 🔭 I’m currently working on programs in C++.
 
-***Recent projects completed:*** 
+## ***Recent projects completed:*** 
 
 - **Monthly income** - Program that calculates the total monthly income of an employee by increasing the basic monthly pay by the percentage of bonus and medical allowance pay.
 
@@ -37,3 +37,5 @@ Hi there 👋
 - **Weight conversion table** - Program that displays a table with imperial tons converted into pounds and kilograms in increments of 2, starting with 2 and ending with 20 tons.
 
 - **Average speed** - Program that uses two inputted distances with two corresponding times to calculate the average speed in km/h.
+
+### ***Thank you for reading :)***
