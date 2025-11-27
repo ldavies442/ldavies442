@@ -2,7 +2,7 @@
 
 - **About me:** My name is Lauren, I am a 23 year old student currently enrolled in my first year of university at the University of South Wales, studying a BSc with honours degree in computer science.
   
-- **Hobbies:** I have a passion for video games and their development. I began playing video games in early childhood and my love for them has followed me throughout my life, which sparked my interest in technology and code. I enjoy learning languages in my spare time, I am currently in the process of improving my previous Welsh skills and learning how to speak and read Japanese. I also enjoy playing instruments as a hobby, my skills include piano, guitar and ukulele.
+- **Hobbies:** I have a passion for video games and their development, my favourite games include The Last of Us and Silent Hill series. I began playing video games in early childhood and my love for them has followed me throughout my life, which sparked my interest in technology and code. I enjoy learning languages in my spare time, I am currently in the process of improving my previous Welsh skills and learning how to speak and read Japanese. I also enjoy playing instruments as a hobby, my skills include piano, guitar and ukulele.
   
 - **Skillset:** I am able to use Python, and I am currently learning how to program in C++.
 
