@@ -143,9 +143,6 @@
 	#RecentProjects h2 {
 		font-family:"times new roman";
 	}
-	html {
-		scroll-behaviour: smooth;
-	}
 </style>
 
 </head>
