@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>My Portfolio</title>
     <h1>Lauren Davies</h1>
     <h2>Welcome to my portfolio!</h2> 
 	<div class="scroll-down">
